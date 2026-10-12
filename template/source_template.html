@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Handwriting Capture Template</title>
+  <style>
+    @page {
+      size: letter portrait;
+      margin: 0;
+    }
+    body {
+      margin: 0;
+      padding: 0.4in;
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      color: #000000;
+      box-sizing: border-box;
+      width: 8.5in;
+      height: 11in;
+      position: relative;
+    }
+
+    /* High-contrast registration marks for OpenCV perspective warping */
+    .anchor {
+      position: absolute;
+      width: 0.35in;
+      height: 0.35in;
+      background: #000000;
+    }
+    .top-left { top: 0.3in; left: 0.3in; }
+    .top-right { top: 0.3in; right: 0.3in; }
+    .bottom-left { bottom: 0.3in; left: 0.3in; }
+    .bottom-right { bottom: 0.3in; right: 0.3in; }
+    header {
+      text-align: center;
+      margin-top: 0.1in;
+      margin-bottom: 0.15in;
+    }
+    h1 {
+      font-size: 16pt;
+      margin: 0 0 4px 0;
+      text-transform: uppercase;
+      letter-spacing: 1px;
+    }
+    p {
+      font-size: 8.5pt;
+      margin: 0;
+      color: #444444;
+    }
+    .section-title {
+      font-size: 9pt;
+      font-weight: bold;
+      text-transform: uppercase;
+      margin: 10px 0 4px 0;
+      border-bottom: 1px solid #000;
+      padding-bottom: 2px;
+    }
+    /* Grid layout for character boxes */
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(10, 1fr);
+      gap: 5px;
+      margin-bottom: 6px;
+    }
+    .box-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .label {
+      font-size: 7.5pt;
+      font-weight: bold;
+      color: #555555;
+      margin-bottom: 2px;
+      height: 10px;
+    }
+    /* Target writing area - completely blank white inside */
+    .box {
+      width: 100%;
+      height: 0.48in;
+      border: 1px solid #999999;
+      box-sizing: border-box;
+      background: #ffffff;
+      position: relative;
+    }
+    /* Expanded boxes for 2 and 3 letter continuous pairs */
+    .grid-pairs {
+      grid-template-columns: repeat(7, 1fr);
+    }
+    .grid-pairs .box {
+      height: 0.52in;
+    }
+  </style>
+</head>
+<body>
+  <!-- Corner Anchors for Computer Vision Alignment -->
+  <div class="anchor top-left"></div>
+  <div class="anchor top-right"></div>
+  <div class="anchor bottom-left"></div>
+  <div class="anchor bottom-right"></div>
+  <header>
+    <h1>Handwriting Training Template</h1>
+    <p>Write clearly inside each box using a black felt-tip pen. Do not let your strokes touch the box borders.</p>
+  </header>
+  <!-- Section 1: Uppercase -->
+  <div class="section-title">Single Letters (Uppercase &amp; Numbers)</div>
+  <div class="grid" id="grid-uppercase"></div>
+  <!-- Section 2: Lowercase -->
+  <div class="section-title">Single Letters (Lowercase &amp; Punctuation)</div>
+  <div class="grid" id="grid-lowercase"></div>
+  <!-- Section 3: Continuous Pairs & Ligatures -->
+  <div class="section-title">Continuous Pairs &amp; Transitions (Write as one fluid stroke)</div>
+  <div class="grid grid-pairs" id="grid-pairs"></div>
+  <script>
+    // Character sets
+    const uppercase = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z','0','1','2','3'];
+    const lowercase = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z','.',',','!','?'];
+
+    // High-frequency continuous transitions
+    const pairs = [
+      'th', 'he', 'in', 'er', 'an', 're', 'on',
+      'at', 'en', 'nd', 'st', 'or', 'to', 'is',
+      'ee', 'oo', 'll', 'ss', 'ff', 'tt', 'ing'
+    ];
+    function populateGrid(containerId, items) {
+      const container = document.getElementById(containerId);
+      items.forEach(item => {
+        const wrapper = document.createElement('div');
+        wrapper.className = 'box-container';
+        wrapper.innerHTML = `
+          <div class="label">${item}</div>
+          <div class="box" data-char="${item}"></div>
+        `;
+        container.appendChild(wrapper);
+      });
+    }
+    populateGrid('grid-uppercase', uppercase);
+    populateGrid('grid-lowercase', lowercase);
+    populateGrid('grid-pairs', pairs);
+  </script>
+</body>
+</html>

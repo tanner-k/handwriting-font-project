@@ -1,0 +1,22 @@
+[
+  { "text": "This ", "startMs": 200, "endMs": 700, "timestampMs": 200, "confidence": 0.98 },
+  { "text": "is ", "startMs": 700, "endMs": 1000, "timestampMs": 700, "confidence": 0.98 },
+  { "text": "a ", "startMs": 1000, "endMs": 1200, "timestampMs": 1000, "confidence": 0.98 },
+  { "text": "test ", "startMs": 1200, "endMs": 1700, "timestampMs": 1200, "confidence": 0.98 },
+  { "text": "of ", "startMs": 1700, "endMs": 1900, "timestampMs": 1700, "confidence": 0.98 },
+  { "text": "the ", "startMs": 1900, "endMs": 2200, "timestampMs": 1900, "confidence": 0.98 },
+  { "text": "handwriting ", "startMs": 2200, "endMs": 3000, "timestampMs": 2200, "confidence": 0.97 },
+  { "text": "font ", "startMs": 3000, "endMs": 3500, "timestampMs": 3000, "confidence": 0.98 },
+  { "text": "and ", "startMs": 3500, "endMs": 3800, "timestampMs": 3500, "confidence": 0.98 },
+  { "text": "its ", "startMs": 3800, "endMs": 4100, "timestampMs": 3800, "confidence": 0.97 },
+  { "text": "ligatures. ", "startMs": 4100, "endMs": 4900, "timestampMs": 4100, "confidence": 0.96 },
+  { "text": "The ", "startMs": 5200, "endMs": 5500, "timestampMs": 5200, "confidence": 0.98 },
+  { "text": "cat ", "startMs": 5500, "endMs": 5900, "timestampMs": 5500, "confidence": 0.97 },
+  { "text": "sat ", "startMs": 5900, "endMs": 6200, "timestampMs": 5900, "confidence": 0.98 },
+  { "text": "on ", "startMs": 6200, "endMs": 6400, "timestampMs": 6200, "confidence": 0.98 },
+  { "text": "a ", "startMs": 6400, "endMs": 6600, "timestampMs": 6400, "confidence": 0.98 },
+  { "text": "mat ", "startMs": 6600, "endMs": 7000, "timestampMs": 6600, "confidence": 0.98 },
+  { "text": "near ", "startMs": 7000, "endMs": 7400, "timestampMs": 7000, "confidence": 0.97 },
+  { "text": "the ", "startMs": 7400, "endMs": 7600, "timestampMs": 7400, "confidence": 0.98 },
+  { "text": "station.", "startMs": 7600, "endMs": 8300, "timestampMs": 7600, "confidence": 0.96 }
+]

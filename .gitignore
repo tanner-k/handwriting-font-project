@@ -1,0 +1,15 @@
+# Installed dependencies and generated Python caches.
+/.venv/
+**/__pycache__/
+*.py[cod]
+/caption-app/node_modules/
+/caption-app/whisper.cpp/
+
+# Local machine metadata and credentials.
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# The existing caption-app ignore file also excludes future renders and bundles.
+# The original out/captioned.mp4 is intentionally tracked as a saved project asset.

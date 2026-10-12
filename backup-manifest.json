@@ -1,0 +1,707 @@
+{
+  "snapshot_date": "2026-10-12",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 7279,
+      "sha256": "01e15ceda74416a779aabcc7c7fa94924326a70b23805b953919fc63b7c63b76",
+      "executable": false
+    },
+    {
+      "path": "caption-app/.gitignore",
+      "bytes": 122,
+      "sha256": "1203bc7e9d6e33f76e40df23fc15b0b21b4eaf20109085855acc60282fa93334",
+      "executable": false
+    },
+    {
+      "path": "caption-app/.prettierrc",
+      "bytes": 66,
+      "sha256": "10e86224d2f90945fbe57db21ac109bdb0ce9b5d7470e7b78fa5f8b6d49a1afd",
+      "executable": false
+    },
+    {
+      "path": "caption-app/README.md",
+      "bytes": 1829,
+      "sha256": "8236e6a2cbf80f0421a904aedd20d4787765586cbd1bee121ffcc63394544f15",
+      "executable": false
+    },
+    {
+      "path": "caption-app/eslint.config.mjs",
+      "bytes": 79,
+      "sha256": "7f2ca640409fd597965bedf929073b9a74f143643e1711150c4cac3b6ec5c80d",
+      "executable": false
+    },
+    {
+      "path": "caption-app/out/captioned.mp4",
+      "bytes": 8570273,
+      "sha256": "9a0e5edbff890e169d67cd1b629210436ceb7c1170c9094233e358277734d99f",
+      "executable": false
+    },
+    {
+      "path": "caption-app/package-lock.json",
+      "bytes": 190970,
+      "sha256": "cf573b808269fe7842be996a8a4b519e630f4f8315454e51f42fe48fcef4ea96",
+      "executable": false
+    },
+    {
+      "path": "caption-app/package.json",
+      "bytes": 1042,
+      "sha256": "76097b63de690f108944033d5eead38309f31be4bd9833009ad209e04352a208",
+      "executable": false
+    },
+    {
+      "path": "caption-app/public/IMG_6090.json",
+      "bytes": 2556,
+      "sha256": "0026879782418050630ce47b6a5adedcb7b1512c0cfed1e79a5b053472e1af1b",
+      "executable": false
+    },
+    {
+      "path": "caption-app/public/IMG_6090.mp4",
+      "bytes": 13664497,
+      "sha256": "1e12d368166f3794f4edef45ce7837d1407e30455833499ed61ca493487aeb74",
+      "executable": false
+    },
+    {
+      "path": "caption-app/public/handwriting.ttf",
+      "bytes": 11004,
+      "sha256": "fb47ca3afda50e1c1216acec3de91b58d3e9b6108e9fbec6ca937ec2001ac028",
+      "executable": false
+    },
+    {
+      "path": "caption-app/public/sample-video.json",
+      "bytes": 1914,
+      "sha256": "da8ad44b4067232a339c3e557796f0f91b148dda82ee449eaafa5f27af0f62ac",
+      "executable": false
+    },
+    {
+      "path": "caption-app/public/sample-video.mp4",
+      "bytes": 4056583,
+      "sha256": "4c73e2c23a79951d6f0d08986aff64e7929e47ac0092b4f6d3646c4011595ab1",
+      "executable": false
+    },
+    {
+      "path": "caption-app/remotion.config.ts",
+      "bytes": 400,
+      "sha256": "4759933a2ec69ff034bf3c380313e428710a8747ab759eb82dcb08f1e6dd6de0",
+      "executable": false
+    },
+    {
+      "path": "caption-app/src/CaptionedVideo/NoCaptionFile.tsx",
+      "bytes": 506,
+      "sha256": "8161d5ae97efe52ef80257db851ee3ee182113cde41e79838a5b98429e91b629",
+      "executable": false
+    },
+    {
+      "path": "caption-app/src/CaptionedVideo/Page.tsx",
+      "bytes": 3169,
+      "sha256": "8c7b816b24238a467034d74e134d49527216c74905f357282476fcfc7267b48c",
+      "executable": false
+    },
+    {
+      "path": "caption-app/src/CaptionedVideo/SubtitlePage.tsx",
+      "bytes": 604,
+      "sha256": "61d3bb3cb0bfbe64f9c2d8d570d16ea2e826c63b9d69c4972c9a8759e82817bf",
+      "executable": false
+    },
+    {
+      "path": "caption-app/src/CaptionedVideo/index.tsx",
+      "bytes": 3744,
+      "sha256": "a0c9f12856b1d06a3a925e283c9bd4fb2fc8ba81555e049bf0334e27a549775b",
+      "executable": false
+    },
+    {
+      "path": "caption-app/src/Root.tsx",
+      "bytes": 570,
+      "sha256": "7748d5d415663e9f2608f98ef466347d6fd8dfd0cb0149378aca6029b49cbe3a",
+      "executable": false
+    },
+    {
+      "path": "caption-app/src/index.ts",
+      "bytes": 228,
+      "sha256": "960a8868b055263378df2f0e3bcc3762e6e334b96bbde9040fc2cca918f5c436",
+      "executable": false
+    },
+    {
+      "path": "caption-app/src/load-font.ts",
+      "bytes": 738,
+      "sha256": "89aae4c28785145405fb109ed6725f6343fa55c64c60eb74a7bdc33bb8c69e4d",
+      "executable": false
+    },
+    {
+      "path": "caption-app/sub.mjs",
+      "bytes": 3644,
+      "sha256": "fe03724444c70a4dd327e19ad454955db8a2ce04c4f504a4f777855e86bce7ed",
+      "executable": false
+    },
+    {
+      "path": "caption-app/tsconfig.json",
+      "bytes": 368,
+      "sha256": "a6fbcf514dbfd3d116c3f7f78b72949c8c2ff45bdbe17aeff4c97e16bc1327fa",
+      "executable": false
+    },
+    {
+      "path": "caption-app/whisper-config.mjs",
+      "bytes": 1358,
+      "sha256": "75f865131cbdffc63054684e3f402c311face0885956dcdb6597bc7e940c5071",
+      "executable": false
+    },
+    {
+      "path": "fonts/MyHandwriting.ttf",
+      "bytes": 11004,
+      "sha256": "fb47ca3afda50e1c1216acec3de91b58d3e9b6108e9fbec6ca937ec2001ac028",
+      "executable": false
+    },
+    {
+      "path": "glyphs/_debug_rectified.png",
+      "bytes": 4755331,
+      "sha256": "b21546b671aaff8b3963971ada06bcd2f1db8c34f422378f0737678145d37ad7",
+      "executable": false
+    },
+    {
+      "path": "glyphs/digit_0.png",
+      "bytes": 546,
+      "sha256": "2356af262ce18615dc442f6967ffb08735e0cebeb616766271f2887b878fd7f1",
+      "executable": false
+    },
+    {
+      "path": "glyphs/digit_1.png",
+      "bytes": 320,
+      "sha256": "9f32e9c9066c2994a0ab1acf01118391b5c732447e2053569e4616037924da58",
+      "executable": false
+    },
+    {
+      "path": "glyphs/digit_2.png",
+      "bytes": 349,
+      "sha256": "dffb663e06ddcc5400231eed92ec9d441e6f3acb881b8ffa59ccd338727e5635",
+      "executable": false
+    },
+    {
+      "path": "glyphs/digit_3.png",
+      "bytes": 388,
+      "sha256": "95b8cbffec51eab9f17fa7e28a7c6b8d108091b4b8de2be64d9abc293bb3cb52",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_a.png",
+      "bytes": 422,
+      "sha256": "ada8c65a4acd18478161e20f50aa8fda7e0728eb1faeec5e3aaa8a45a95f66c2",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_b.png",
+      "bytes": 450,
+      "sha256": "0895c4eeadbe10e4ad40ba0a84504150f879d88c06754471e5d77f58929b11f4",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_c.png",
+      "bytes": 340,
+      "sha256": "89d4fecfafa678e102e214bdeb49be9c63874ea4a02718ecf911bf0952178948",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_d.png",
+      "bytes": 438,
+      "sha256": "ada64d18f5f551c13b4e6082d3efe58f44b3573e67eca3ddfd35738e67e5f282",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_e.png",
+      "bytes": 376,
+      "sha256": "b0830085d4b75745816737be5679380a0534ce2dd7d6862c3e806ab7e839d901",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_f.png",
+      "bytes": 462,
+      "sha256": "953c80e8f5f5d97368869126cfcc9291c4052f46919fed8d013a822cb1f616fa",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_g.png",
+      "bytes": 503,
+      "sha256": "5b56047be239fc3b652810ec8325b967c126b527363eae42404428604a481d3c",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_h.png",
+      "bytes": 411,
+      "sha256": "0ee97ffb9b51611334a2108c495e37b350440430f3487bfbd75ce8309adccb4d",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_i.png",
+      "bytes": 286,
+      "sha256": "d0a6bd00378afbe4b4038558efb0c49e5621e333ff6bb32e2292f57047fd4aa2",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_j.png",
+      "bytes": 398,
+      "sha256": "34c34622adf48a4593d7e08064488c4915f178f753f20b7201af3550ff60cd63",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_k.png",
+      "bytes": 439,
+      "sha256": "ccf4f7bfc1652e247d6579576005ff13a09eb007b7f0d4c738607774fee26fc0",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_l.png",
+      "bytes": 403,
+      "sha256": "a9552ed25fc4c9799224bcc5638e4b006cdcf795c7fad54b5e15b5b2fdf59b49",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_m.png",
+      "bytes": 390,
+      "sha256": "30e6a311d6b9819c92133352ef8179eb74fb85bc8d0e905a59f3492e8755d884",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_n.png",
+      "bytes": 411,
+      "sha256": "3a30c7a4a25cce2e5edee3d86b18d13e3fa7de651cc5fd24bb7815d70031650e",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_o.png",
+      "bytes": 380,
+      "sha256": "c4ce437e4a4023a406194d5950ced6790a046b591e3a56a7afdd5e440f6fd687",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_p.png",
+      "bytes": 400,
+      "sha256": "199ebf476daee23357b73c1b1c982cc57d1d6422532bd345b0d728e5c7684d73",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_q.png",
+      "bytes": 425,
+      "sha256": "7b1ab34d69f86bc0a856c21c07156541e0d4b560acb427d9b66a449198b15565",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_r.png",
+      "bytes": 342,
+      "sha256": "d4cb1f8aab1fc497364fda65da8f9194caa1861f700c69a3f97abdafa35a28d2",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_s.png",
+      "bytes": 362,
+      "sha256": "21ec33b4fda068d332f76d8c4864236556de07583a141bd1ca756d800af5543d",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_t.png",
+      "bytes": 356,
+      "sha256": "e2af09b46e225894abe93561a5b354d3cfe1ee480ca6cc659860494d3e321784",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_u.png",
+      "bytes": 404,
+      "sha256": "6cf6da9f91ed2bd1a2910ab1aa41ee4f19cdc17b723b5c4dc1acf3a75f988495",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_v.png",
+      "bytes": 398,
+      "sha256": "c6f19e9ec67e1490847c0aada99f8bf12187ffe027c15c5e814a95f814c02ad6",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_w.png",
+      "bytes": 457,
+      "sha256": "21847bd0bfc6a0fd9904ceabea95d63babd9a81402a341cf02473930156b9203",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_x.png",
+      "bytes": 416,
+      "sha256": "4c53d9dd3224f66dc5dec5797dd50e53238a8431f83882ffb248d1fa591755aa",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_y.png",
+      "bytes": 393,
+      "sha256": "6ca9a0a18db3462afd513514dec228b35a8e6b18262f86d1d05ddc31c3c8d618",
+      "executable": false
+    },
+    {
+      "path": "glyphs/lower_z.png",
+      "bytes": 318,
+      "sha256": "8c3fab57f9c40043648498a64ee42240fbca93ad88b91f73c8cd8fef3e713943",
+      "executable": false
+    },
+    {
+      "path": "glyphs/manifest.json",
+      "bytes": 17448,
+      "sha256": "ff9e9b0ee816f7aee959ea8e295c2414a224b5f2c06ff5bd2b0a520973ff20da",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_an.png",
+      "bytes": 561,
+      "sha256": "271724361108bd24757d8c5b907006a84dfdf6dd9c6b345572eaf690198cbedd",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_at.png",
+      "bytes": 629,
+      "sha256": "adeebd7472fd2b07ac80f25ef1468d8f500157b0519f8fa86a4dbd80964e401c",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_ee.png",
+      "bytes": 571,
+      "sha256": "cbee36320e01d09a01a61ebf56eaf0595b148c5f2dac4855335fa4ebdf292c31",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_en.png",
+      "bytes": 626,
+      "sha256": "25883d19d2ca025222c16939dbe670706608965697c101d300a69a203f8330e7",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_er.png",
+      "bytes": 514,
+      "sha256": "be6774b47f400c189917421fcb5f01981aecfec2eb8630cb18ecbc26c25329c5",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_ff.png",
+      "bytes": 663,
+      "sha256": "0f7f35a8fa3713149365636dec2967a448bf2b85e1e54a66d83f72b6cda4ec24",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_he.png",
+      "bytes": 580,
+      "sha256": "78f81b416f3ff0357a32f86847ed22969dc6a7ee02544f280e324c1d0f9f178b",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_in.png",
+      "bytes": 430,
+      "sha256": "333394fcbb9e2398140a2b54ea930439f1d7ac326465922614aa112b819a60f9",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_ing.png",
+      "bytes": 770,
+      "sha256": "347a6caf4e981424476949509f9095a52a8c88242b5820b6f80592aed4e7a590",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_is.png",
+      "bytes": 448,
+      "sha256": "f2c44dd5ed97df5c8704c09e7b9c4602305cd54f887e26377bb26d9ac4ce19f0",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_ll.png",
+      "bytes": 626,
+      "sha256": "f250b1f91f4ed1fbf9d32c6e9154b3429209346d2c37299866497b668776b403",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_nd.png",
+      "bytes": 621,
+      "sha256": "801ae4c5f200da1a51cd5719950461d064047cf107c9c9b1ba6bdae0ec2ec4a1",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_on.png",
+      "bytes": 606,
+      "sha256": "e2b8be25d875d18514b5bb61efda3efc0f2b1717337e9df5f5c5b434b3a120d7",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_oo.png",
+      "bytes": 543,
+      "sha256": "2f53fd8afdc0b19634874416dc6bf000daf36847a74797f39c0f489ec86bef8f",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_or.png",
+      "bytes": 565,
+      "sha256": "96a8aaffc910583aa53cd2ef6316af1efc51a5a77ccbbbaaf94951bd0430a405",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_re.png",
+      "bytes": 501,
+      "sha256": "78e179925858da83385d40facc768226de4a1ad819c879ff250592f4b32b85b2",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_ss.png",
+      "bytes": 507,
+      "sha256": "98f2a9e465b3978fc18906b1a2a21e04751a26a009e100cedf5169b068491d42",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_st.png",
+      "bytes": 593,
+      "sha256": "406b9c19f5268a2604ed8e81e77e51fdbff5e050483638bd7eef42b6b43d4044",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_th.png",
+      "bytes": 647,
+      "sha256": "23e6813a38b69787a7ef636804ae2ef559f2393627f447fe93cdb5eed2ef7a5f",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_to.png",
+      "bytes": 598,
+      "sha256": "e759affdddeffdd62691b8dc5316172b05a265ace3b310c933f95e350befc4cb",
+      "executable": false
+    },
+    {
+      "path": "glyphs/pair_tt.png",
+      "bytes": 548,
+      "sha256": "26dcf43a60a34dc716300a57bc161e3b760009d92e5d4176d1c67e674911409c",
+      "executable": false
+    },
+    {
+      "path": "glyphs/punct_comma.png",
+      "bytes": 284,
+      "sha256": "d467b544fd45f5db452c9b51595005293e0dc5df095d920da2748e3e6bef5999",
+      "executable": false
+    },
+    {
+      "path": "glyphs/punct_exclam.png",
+      "bytes": 327,
+      "sha256": "16c31150d8aed474ca8ef6dbb29bd46ec7a6c9448f136a4f55aa8c5e71009bc7",
+      "executable": false
+    },
+    {
+      "path": "glyphs/punct_period.png",
+      "bytes": 229,
+      "sha256": "e5ae2f6f6ab38704f7d733d655f0b06206a52f7159713ad3b0145136e70c2722",
+      "executable": false
+    },
+    {
+      "path": "glyphs/punct_question.png",
+      "bytes": 397,
+      "sha256": "d1a13fe91bad9b24870b33f60b9f30735a519305b49271e9774a0709ff31b41a",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_A.png",
+      "bytes": 451,
+      "sha256": "7766bcdd183ddbcceda77b972146f21a8f871ebb19eb07377b2d16c227d85228",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_B.png",
+      "bytes": 472,
+      "sha256": "ac84cd90d0b18f6169cd037e36a965ce1cec3bb7dc5b56b37da099b13fb1ff2b",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_C.png",
+      "bytes": 387,
+      "sha256": "dd3bde7ba077af1332a15f19589ca93b1715ca8bcc12ab968d091a1902c2c229",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_D.png",
+      "bytes": 493,
+      "sha256": "c57c4b76d183574e6ce3b41d7ad07ff37f3146129ad2a565c417ad4db0494ee6",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_E.png",
+      "bytes": 492,
+      "sha256": "aa6264abc8e2b1c637d8876bafd42f0de3f6f9507f16bca2f1a23b84ed374887",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_F.png",
+      "bytes": 390,
+      "sha256": "3471c66b1c7da7b8d9d1c991af9a7a07ca46add7c54cc67226c92c28c4ad22a2",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_G.png",
+      "bytes": 475,
+      "sha256": "165a2dda118d2078715a45e282e5139996ec474ee49d6cf083310ff7258940ef",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_H.png",
+      "bytes": 491,
+      "sha256": "92682fbd3789cf6ff84794e7bd7a7b963539202d6d80fa017e7963ce9c3b76cd",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_I.png",
+      "bytes": 380,
+      "sha256": "b51438c8a6d18b61866a443e020923da4a34f0c952216b6da388699e81513fab",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_J.png",
+      "bytes": 431,
+      "sha256": "4d36856aa0d7d4fe48b99889a283d9b1195660808a03959077aa296d0330c316",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_K.png",
+      "bytes": 477,
+      "sha256": "ae01b6b9df49b3a030140fa08e6b70ff63b01c99e13c9e07cd860083dfe8f1d3",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_L.png",
+      "bytes": 343,
+      "sha256": "f19a5e49d86ff63d30fa0014f447ace1931ecd871126c45eaea82e99a31ed780",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_M.png",
+      "bytes": 553,
+      "sha256": "ebedea66113b9ed17c4b07af6177f4ea4d5e2bc6e820f65376ed09186c0a3b91",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_N.png",
+      "bytes": 554,
+      "sha256": "7acd528ffc1dec1f61be9da69d18bb9a380dcfedecb2b5b2680f29fdb4b2d450",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_O.png",
+      "bytes": 485,
+      "sha256": "062239fc01e79e0c2454d099159a141fd860a0adddeb9c8b01256aab9991ebaa",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_P.png",
+      "bytes": 443,
+      "sha256": "2c8b0f60e7bde4bfe35a2a6d85754f0bbf8d5c8f88a7e163871425880807e14c",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_Q.png",
+      "bytes": 560,
+      "sha256": "ec19fafea691a8368e87379b9f61ef5df4dd75ac815747ad0a0071f9ad55bf81",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_R.png",
+      "bytes": 488,
+      "sha256": "2f1beb37f9a78d8957bf6885d28b87d66fdddf99ced3569a12a94a8e21a32f08",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_S.png",
+      "bytes": 419,
+      "sha256": "e5777fd6d903f7f88c9e69c256e7df6dda29717956edc317326aa67412366c84",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_T.png",
+      "bytes": 346,
+      "sha256": "0e50b2255f955cca13e3eb6e4f60e373f54265b2f3753990651bc40192148263",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_U.png",
+      "bytes": 485,
+      "sha256": "4dc6af0557bd1013f2c6459700772d0138307f668504a40afa4878ddaf5d34ff",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_V.png",
+      "bytes": 406,
+      "sha256": "bafdc16f6a982cdb628905dfefdb2a288377a0f1142044160a7c2a222eeb624b",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_W.png",
+      "bytes": 546,
+      "sha256": "85e9e188c29fc39930cad0b2b0ff39ab1064d555cada28bbd3896bcf8a1d3174",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_X.png",
+      "bytes": 496,
+      "sha256": "44b96a91ae5ee38c6e7d052d78e20e3f6e3734a0c09e3d7bc4882f9b4ebbf2cf",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_Y.png",
+      "bytes": 405,
+      "sha256": "e3002c7989c0b7d043c96e541323c471c5cb0e8bea3ac52ca484a89c1fbc532d",
+      "executable": false
+    },
+    {
+      "path": "glyphs/upper_Z.png",
+      "bytes": 372,
+      "sha256": "71c0f01ad00465b738dfe35365c9b7b8272b8d47f7998565f772b0c3476a20e9",
+      "executable": false
+    },
+    {
+      "path": "requirements.txt",
+      "bytes": 73,
+      "sha256": "412649bec22cc3da25386c5c6d3465394e318348b71de6be93870d9bee63aff7",
+      "executable": false
+    },
+    {
+      "path": "run_font_pipeline.sh",
+      "bytes": 1173,
+      "sha256": "89845b1c2d6a2007d0116588aba272b8dfe5cb121c36353c9cfbbd3c444490d0",
+      "executable": true
+    },
+    {
+      "path": "scripts/01_extract_template_layout.py",
+      "bytes": 8008,
+      "sha256": "c69441f9ea2027a4d11207cc7c67b2bdb0967289f7fa241b5cc90dc0c88b424f",
+      "executable": false
+    },
+    {
+      "path": "scripts/02_extract_glyphs.py",
+      "bytes": 8350,
+      "sha256": "ffeeb4813edcdfa936ca3e656817a130df48b992c3cb6cabf9b3d038bb44ae6c",
+      "executable": false
+    },
+    {
+      "path": "scripts/03_build_font.py",
+      "bytes": 9839,
+      "sha256": "492cfca57487cf9f8844abdaf85eab735181f7609fb2a5821551399c36c44e4f",
+      "executable": false
+    },
+    {
+      "path": "scripts/_dry_run_synthetic_test.py",
+      "bytes": 11830,
+      "sha256": "1c1d50f6666ab944478894d158b18f7d5b7bb1da1c6dcfafbd03e6ee0eff802b",
+      "executable": false
+    },
+    {
+      "path": "template/blank_template.pdf",
+      "bytes": 32904,
+      "sha256": "8751fc9d9579049ba85e2536b50d9cdd017a0688b11b6ef230f62571f085969e",
+      "executable": false
+    },
+    {
+      "path": "template/source_template.html",
+      "bytes": 4204,
+      "sha256": "560653bcdfa6d0eb84606bedf6d4128e0559c690364dbd5c097ecc591e0b43b4",
+      "executable": false
+    },
+    {
+      "path": "template/template_layout.json",
+      "bytes": 15689,
+      "sha256": "2a3f8eb148f90f2283cdbf792a0cb90b901533313d08ae8ac9e950519f780ae0",
+      "executable": false
+    }
+  ]
+}

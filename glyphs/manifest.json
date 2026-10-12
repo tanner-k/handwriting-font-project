@@ -1,0 +1,1298 @@
+{
+  "A": {
+    "file": "upper_A.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 435,
+    "ink_bbox": [
+      45,
+      12,
+      82,
+      65
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "B": {
+    "file": "upper_B.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 556,
+    "ink_bbox": [
+      51,
+      25,
+      83,
+      75
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "C": {
+    "file": "upper_C.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 291,
+    "ink_bbox": [
+      52,
+      22,
+      91,
+      75
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "D": {
+    "file": "upper_D.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 523,
+    "ink_bbox": [
+      47,
+      14,
+      82,
+      71
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "E": {
+    "file": "upper_E.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 615,
+    "ink_bbox": [
+      41,
+      10,
+      74,
+      69
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "F": {
+    "file": "upper_F.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 413,
+    "ink_bbox": [
+      44,
+      17,
+      72,
+      66
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "G": {
+    "file": "upper_G.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 525,
+    "ink_bbox": [
+      44,
+      17,
+      82,
+      74
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "H": {
+    "file": "upper_H.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 432,
+    "ink_bbox": [
+      47,
+      16,
+      79,
+      68
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "I": {
+    "file": "upper_I.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 396,
+    "ink_bbox": [
+      42,
+      16,
+      78,
+      71
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "J": {
+    "file": "upper_J.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 442,
+    "ink_bbox": [
+      37,
+      11,
+      77,
+      69
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "K": {
+    "file": "upper_K.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 465,
+    "ink_bbox": [
+      46,
+      11,
+      90,
+      66
+    ],
+    "crop_size": [
+      126,
+      84
+    ]
+  },
+  "L": {
+    "file": "upper_L.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 258,
+    "ink_bbox": [
+      48,
+      22,
+      80,
+      67
+    ],
+    "crop_size": [
+      124,
+      84
+    ]
+  },
+  "M": {
+    "file": "upper_M.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 609,
+    "ink_bbox": [
+      38,
+      13,
+      93,
+      68
+    ],
+    "crop_size": [
+      126,
+      84
+    ]
+  },
+  "N": {
+    "file": "upper_N.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 533,
+    "ink_bbox": [
+      38,
+      5,
+      79,
+      74
+    ],
+    "crop_size": [
+      124,
+      84
+    ]
+  },
+  "O": {
+    "file": "upper_O.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 454,
+    "ink_bbox": [
+      48,
+      9,
+      81,
+      65
+    ],
+    "crop_size": [
+      126,
+      84
+    ]
+  },
+  "P": {
+    "file": "upper_P.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 511,
+    "ink_bbox": [
+      39,
+      16,
+      73,
+      73
+    ],
+    "crop_size": [
+      124,
+      84
+    ]
+  },
+  "Q": {
+    "file": "upper_Q.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 569,
+    "ink_bbox": [
+      49,
+      7,
+      92,
+      69
+    ],
+    "crop_size": [
+      124,
+      84
+    ]
+  },
+  "R": {
+    "file": "upper_R.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 620,
+    "ink_bbox": [
+      43,
+      18,
+      81,
+      78
+    ],
+    "crop_size": [
+      126,
+      84
+    ]
+  },
+  "S": {
+    "file": "upper_S.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 425,
+    "ink_bbox": [
+      47,
+      14,
+      81,
+      67
+    ],
+    "crop_size": [
+      124,
+      84
+    ]
+  },
+  "T": {
+    "file": "upper_T.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 375,
+    "ink_bbox": [
+      37,
+      18,
+      92,
+      61
+    ],
+    "crop_size": [
+      126,
+      84
+    ]
+  },
+  "U": {
+    "file": "upper_U.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 373,
+    "ink_bbox": [
+      43,
+      14,
+      77,
+      70
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "V": {
+    "file": "upper_V.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 276,
+    "ink_bbox": [
+      46,
+      15,
+      75,
+      62
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "W": {
+    "file": "upper_W.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 515,
+    "ink_bbox": [
+      33,
+      14,
+      79,
+      65
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "X": {
+    "file": "upper_X.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 417,
+    "ink_bbox": [
+      41,
+      21,
+      83,
+      72
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "Y": {
+    "file": "upper_Y.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 300,
+    "ink_bbox": [
+      42,
+      16,
+      72,
+      75
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "Z": {
+    "file": "upper_Z.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 480,
+    "ink_bbox": [
+      37,
+      19,
+      95,
+      65
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "0": {
+    "file": "digit_0.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 478,
+    "ink_bbox": [
+      51,
+      5,
+      88,
+      73
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "1": {
+    "file": "digit_1.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 193,
+    "ink_bbox": [
+      59,
+      19,
+      67,
+      74
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "2": {
+    "file": "digit_2.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 428,
+    "ink_bbox": [
+      41,
+      21,
+      92,
+      60
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "3": {
+    "file": "digit_3.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 452,
+    "ink_bbox": [
+      46,
+      17,
+      80,
+      65
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "a": {
+    "file": "lower_a.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 348,
+    "ink_bbox": [
+      38,
+      33,
+      77,
+      72
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "b": {
+    "file": "lower_b.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 415,
+    "ink_bbox": [
+      47,
+      14,
+      80,
+      66
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "c": {
+    "file": "lower_c.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 255,
+    "ink_bbox": [
+      56,
+      35,
+      91,
+      69
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "d": {
+    "file": "lower_d.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 419,
+    "ink_bbox": [
+      43,
+      14,
+      79,
+      75
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "e": {
+    "file": "lower_e.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 296,
+    "ink_bbox": [
+      52,
+      31,
+      83,
+      70
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "f": {
+    "file": "lower_f.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 460,
+    "ink_bbox": [
+      45,
+      12,
+      82,
+      78
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "g": {
+    "file": "lower_g.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 499,
+    "ink_bbox": [
+      45,
+      16,
+      82,
+      82
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "h": {
+    "file": "lower_h.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 305,
+    "ink_bbox": [
+      48,
+      18,
+      81,
+      69
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "i": {
+    "file": "lower_i.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 117,
+    "ink_bbox": [
+      49,
+      13,
+      59,
+      64
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "j": {
+    "file": "lower_j.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 311,
+    "ink_bbox": [
+      31,
+      11,
+      64,
+      75
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "k": {
+    "file": "lower_k.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 423,
+    "ink_bbox": [
+      50,
+      7,
+      85,
+      66
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "l": {
+    "file": "lower_l.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 345,
+    "ink_bbox": [
+      44,
+      0,
+      70,
+      63
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "m": {
+    "file": "lower_m.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 342,
+    "ink_bbox": [
+      34,
+      35,
+      73,
+      60
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "n": {
+    "file": "lower_n.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 331,
+    "ink_bbox": [
+      44,
+      26,
+      73,
+      63
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "o": {
+    "file": "lower_o.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 316,
+    "ink_bbox": [
+      46,
+      27,
+      72,
+      59
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "p": {
+    "file": "lower_p.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 370,
+    "ink_bbox": [
+      47,
+      23,
+      73,
+      74
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "q": {
+    "file": "lower_q.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 421,
+    "ink_bbox": [
+      46,
+      13,
+      83,
+      68
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "r": {
+    "file": "lower_r.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 239,
+    "ink_bbox": [
+      50,
+      23,
+      81,
+      61
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "s": {
+    "file": "lower_s.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 298,
+    "ink_bbox": [
+      50,
+      28,
+      85,
+      68
+    ],
+    "crop_size": [
+      124,
+      82
+    ]
+  },
+  "t": {
+    "file": "lower_t.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 408,
+    "ink_bbox": [
+      43,
+      9,
+      86,
+      63
+    ],
+    "crop_size": [
+      126,
+      82
+    ]
+  },
+  "u": {
+    "file": "lower_u.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 301,
+    "ink_bbox": [
+      46,
+      26,
+      75,
+      62
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "v": {
+    "file": "lower_v.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 289,
+    "ink_bbox": [
+      47,
+      18,
+      80,
+      62
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "w": {
+    "file": "lower_w.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 434,
+    "ink_bbox": [
+      36,
+      22,
+      81,
+      60
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "x": {
+    "file": "lower_x.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 387,
+    "ink_bbox": [
+      40,
+      32,
+      76,
+      69
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "y": {
+    "file": "lower_y.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 282,
+    "ink_bbox": [
+      42,
+      27,
+      71,
+      81
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "z": {
+    "file": "lower_z.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 372,
+    "ink_bbox": [
+      41,
+      28,
+      85,
+      57
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  ".": {
+    "file": "punct_period.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 51,
+    "ink_bbox": [
+      55,
+      49,
+      61,
+      59
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  ",": {
+    "file": "punct_comma.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 110,
+    "ink_bbox": [
+      62,
+      43,
+      73,
+      71
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "!": {
+    "file": "punct_exclam.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 211,
+    "ink_bbox": [
+      53,
+      4,
+      61,
+      65
+    ],
+    "crop_size": [
+      124,
+      83
+    ]
+  },
+  "?": {
+    "file": "punct_question.png",
+    "is_pair": false,
+    "empty": false,
+    "ink_pixels": 407,
+    "ink_bbox": [
+      49,
+      2,
+      78,
+      68
+    ],
+    "crop_size": [
+      126,
+      83
+    ]
+  },
+  "th": {
+    "file": "pair_th.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 719,
+    "ink_bbox": [
+      41,
+      15,
+      120,
+      78
+    ],
+    "crop_size": [
+      184,
+      90
+    ]
+  },
+  "he": {
+    "file": "pair_he.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 642,
+    "ink_bbox": [
+      67,
+      20,
+      128,
+      75
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "in": {
+    "file": "pair_in.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 346,
+    "ink_bbox": [
+      74,
+      14,
+      125,
+      59
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "er": {
+    "file": "pair_er.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 553,
+    "ink_bbox": [
+      78,
+      29,
+      138,
+      64
+    ],
+    "crop_size": [
+      183,
+      90
+    ]
+  },
+  "an": {
+    "file": "pair_an.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 582,
+    "ink_bbox": [
+      67,
+      33,
+      141,
+      66
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "re": {
+    "file": "pair_re.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 475,
+    "ink_bbox": [
+      66,
+      37,
+      124,
+      76
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "on": {
+    "file": "pair_on.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 688,
+    "ink_bbox": [
+      70,
+      39,
+      133,
+      78
+    ],
+    "crop_size": [
+      184,
+      90
+    ]
+  },
+  "at": {
+    "file": "pair_at.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 724,
+    "ink_bbox": [
+      52,
+      7,
+      111,
+      76
+    ],
+    "crop_size": [
+      184,
+      90
+    ]
+  },
+  "en": {
+    "file": "pair_en.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 640,
+    "ink_bbox": [
+      68,
+      32,
+      139,
+      74
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "nd": {
+    "file": "pair_nd.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 736,
+    "ink_bbox": [
+      67,
+      12,
+      138,
+      69
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "st": {
+    "file": "pair_st.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 754,
+    "ink_bbox": [
+      68,
+      11,
+      123,
+      78
+    ],
+    "crop_size": [
+      183,
+      90
+    ]
+  },
+  "or": {
+    "file": "pair_or.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 625,
+    "ink_bbox": [
+      70,
+      26,
+      132,
+      71
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "to": {
+    "file": "pair_to.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 695,
+    "ink_bbox": [
+      68,
+      16,
+      132,
+      78
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "is": {
+    "file": "pair_is.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 368,
+    "ink_bbox": [
+      73,
+      13,
+      109,
+      64
+    ],
+    "crop_size": [
+      184,
+      90
+    ]
+  },
+  "ee": {
+    "file": "pair_ee.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 691,
+    "ink_bbox": [
+      55,
+      30,
+      127,
+      70
+    ],
+    "crop_size": [
+      184,
+      90
+    ]
+  },
+  "oo": {
+    "file": "pair_oo.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 729,
+    "ink_bbox": [
+      72,
+      26,
+      128,
+      61
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "ll": {
+    "file": "pair_ll.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 607,
+    "ink_bbox": [
+      61,
+      2,
+      102,
+      67
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "ss": {
+    "file": "pair_ss.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 591,
+    "ink_bbox": [
+      50,
+      26,
+      123,
+      68
+    ],
+    "crop_size": [
+      183,
+      90
+    ]
+  },
+  "ff": {
+    "file": "pair_ff.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 850,
+    "ink_bbox": [
+      45,
+      4,
+      108,
+      68
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "tt": {
+    "file": "pair_tt.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 658,
+    "ink_bbox": [
+      52,
+      13,
+      107,
+      70
+    ],
+    "crop_size": [
+      182,
+      90
+    ]
+  },
+  "ing": {
+    "file": "pair_ing.png",
+    "is_pair": true,
+    "empty": false,
+    "ink_pixels": 954,
+    "ink_bbox": [
+      43,
+      21,
+      117,
+      88
+    ],
+    "crop_size": [
+      184,
+      90
+    ]
+  }
+}
